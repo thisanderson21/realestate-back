@@ -73,6 +73,7 @@ dotnet build
 
 ```bash
 cd Api
+
 dotnet run
 ```
 
@@ -80,8 +81,11 @@ dotnet run
 
 Una vez en ejecución, la API estará disponible en:
 
-- **HTTP:** [http://localhost:5214](http://localhost:5000)
-- **Swagger UI:** [http://localhost:5214](http://localhost:5000/swagger)
+- **HTTP:** [http://localhost:5214](http://localhost:5214)
+- **Swagger UI:** [http://localhost:5214/swagger](http://localhost:5214/swagger)
+
+API PROPERTIES
+http://localhost:5214/api/Properties
 
 ## 🧪 Pruebas y Cobertura
 
