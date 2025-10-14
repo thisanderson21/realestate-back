@@ -80,9 +80,8 @@ dotnet run
 
 Una vez en ejecución, la API estará disponible en:
 
-- **HTTP:** [http://localhost:5000](http://localhost:5000)  
-- **HTTPS:** [https://localhost:5001](https://localhost:5001)  
-- **Swagger UI:** [https://localhost:5001/swagger](https://localhost:5001/swagger)
+- **HTTP:** [http://localhost:5214](http://localhost:5000)
+- **Swagger UI:** [http://localhost:5214](http://localhost:5000/swagger)
 
 ## 🧪 Pruebas y Cobertura
 
